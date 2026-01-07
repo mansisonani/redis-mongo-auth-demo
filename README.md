@@ -1,4 +1,4 @@
-🧪 How This Project Uses Redis
+🚀 Redis + MongoDB Backend Demo
 
 # Redis is used for
 
@@ -56,3 +56,4 @@ Replays commands on restart
 
 Good for: more reliable data
 Downside: slightly slower and larger file
+
